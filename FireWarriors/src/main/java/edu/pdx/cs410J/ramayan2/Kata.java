@@ -11,6 +11,7 @@ public class Kata {
 
   public static void main(String[] args) {
     System.err.println("Missing command line arguments");
+    System.out.println("Harsha");
     System.exit(1);
   }
 }
